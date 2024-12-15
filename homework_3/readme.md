@@ -8,7 +8,7 @@ cd <директория проекта/homework_3>
 unittest
 
 ## Запуск
-python translator.py --input model_params.conf
+python translator.py --input model_params.conf и
 python translator.py --input web_server.conf
 
 # 3 - Структура проекта
