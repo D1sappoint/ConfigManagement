@@ -1,6 +1,6 @@
 ## Задача 1
 Реализовать с помощью математического языка LaTeX нижеприведенную формулу:
-![alt-text]([https://sun9-56.userapi.com/impg/K1uZw0zI7DqYlYQuhudESRTp8fBnhrVEyUjT5A/o51mgH_VrgM.jpg?size=1165x330&quality=96&sign=68781bc1ca75dbf455d13dbaec18c418&type=album](https://sun9-33.userapi.com/impg/xZZOnsXFFiKAaZuAk2K_VpOzKWk7ssXiiorOlA/Mx3jgn8NfhQ.jpg?size=1225x516&quality=96&sign=0d21c1cb99b23513bf5aeba8d4bfb7cc&type=album))
+![alt-text](https://sun9-33.userapi.com/impg/xZZOnsXFFiKAaZuAk2K_VpOzKWk7ssXiiorOlA/Mx3jgn8NfhQ.jpg?size=1225x516&quality=96&sign=0d21c1cb99b23513bf5aeba8d4bfb7cc&type=album)
 Прислать код на LaTeX и картинку-результат, где, помимо формулы, будет указано ФИО студента.
 
 ## Задача 2
